@@ -10,6 +10,7 @@ html, body {
 .jumbotron {
     height: 800px;
     background-image: url(http://www.splitshire.com/wp-content/uploads/2014/05/SplitShire_IMG_4627-1800x1200.jpg);
+    background-size: 100%;
 }
 
 .jumbotron h1 {
